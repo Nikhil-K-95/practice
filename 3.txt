@@ -4,4 +4,8 @@ D:                    367G  131G  236G  36% /d
 E:                    367G  115G  253G  32% /e
 F:                     25G  2.4G   23G  10% /f
 
+<<<<<<< HEAD
 neethu
+=======
+nikhil
+>>>>>>> main
